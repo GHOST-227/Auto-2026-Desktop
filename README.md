@@ -2,7 +2,7 @@
 
 # AutoCAD 2026: Professional Design & Engineering Resource
 
-[![Stars](https://img.shields.io/github/stars/)](https://github.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/GHOST-227/Auto-2026-Desktop)](https://github.com/GHOST-227/Auto-2026-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 **AutoCAD 2026 Resource** is a comprehensive professional suite designed for architects, engineers, and construction specialists. This repository provides a streamlined environment for the 2026 release, featuring optimized object libraries, specialized industry toolsets, and enhanced documentation to accelerate complex CAD workflows on modern Windows systems.
 Achieve industrial-grade precision: featuring AI-assisted drafting commands, improved 3D modeling performance, and seamless integration with cloud-based BIM and collaboration platforms.
